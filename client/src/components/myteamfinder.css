@@ -1,0 +1,52 @@
+#mtf-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#mtfcontent {
+    flex: 1;
+    margin-top: 2%;
+}
+
+#right-content {
+    margin-top: 2%;
+    display: flex;
+}
+
+#rec-button {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#lol-dota-img {
+    border-radius: 50px;
+}
+
+#homepage {
+    margin-top: 2%;
+}
+
+#welcome-text {
+    font-size: 200%;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+}
+
+#recommendations {
+    font-size: 250%;
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+    margin-top: 4%;
+}
+
+#rec-teams {
+    margin-top: 2%;
+}
+
+.body-bg {
+    background-color:#1b1c1d;
+}

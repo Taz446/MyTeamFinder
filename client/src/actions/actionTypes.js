@@ -1,0 +1,41 @@
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_OUT = 'SIGN_OUT';
+
+export const CREATE_USER = 'CREATE_USER';
+export const FETCH_USERS = 'FETCH_USERS';
+export const FETCH_USER = 'FETCH_USER';
+export const DELETE_USER = 'DELETE_USER';
+export const EDIT_USER = 'EDIT_USER';
+export const CHANGE_PASSWORD = 'CHANGE_PASSWORD';
+export const FETCH_USER_BY_GOOGLEID = 'FETCH_USER_BY_GOOGLEID';
+export const FETCH_USER_BY_EMAIL = 'FETCH_USER_BY_EMAIL';
+
+export const FETCH_GAMES = 'FETCH_GAMES';
+export const FETCH_GAME = 'FETCH_GAME';
+
+export const FETCH_POSTS = 'FETCH_POSTS';
+export const FETCH_POST = 'FETCH_POST';
+export const CREATE_POST = 'CREATE_POST';
+export const DELETE_POST = 'DELETE_POST';
+export const RESET_POSTS = 'RESET_POSTS';
+
+export const SET_FILTERS = 'SET_FILTERS';
+export const RESET_FILTERS = 'RESET_FILTERS';
+
+export const FETCH_TEAMS = 'FETCH_TEAMS';
+export const FETCH_TEAM = 'FETCH_TEAM';
+export const CREATE_TEAM = 'CREATE_TEAM';
+export const UPDATE_TEAM = 'UPDATE_TEAM';
+export const DELETE_TEAM = 'DELETE_TEAM';
+export const RESET_TEAMS = 'RESET_TEAMS';
+
+export const GET_TEAM_PLAYERS = 'GET_TEAM_PLAYERS';
+export const RESET_TEAM_PLAYERS = 'RESET_TEAM_PLAYERS';
+
+export const FETCH_TEAM_INVITES = 'FETCH_TEAM_INVITES';
+export const FETCH_TEAM_REQUESTS = 'FETCH_TEAM_REQUESTS';
+export const RESET_TEAM_INVITES = 'RESET_TEAM_INVITES';
+export const RESET_TEAM_REQUESTS = 'RESET_TEAM_REQUESTS';
+
+export const GET_RECOMMENDATIONS = 'GET_RECOMMENDATIONS';
+export const RESET_RECOMMENDATIONS = 'RESET_RECOMMENDATIONS';

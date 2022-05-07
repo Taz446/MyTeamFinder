@@ -1,0 +1,46 @@
+.flag-size{
+  border-radius: 5px;
+  width: 90px;
+  height: 67.5px;
+}
+
+.user-email {
+  margin-top: 2%;
+}
+
+.user-dname {
+  font-size: 230%;
+}
+
+.user-game-name {
+  font-size: 230%;
+  margin-top: 2%;
+}
+
+#team-name {
+  text-decoration: none !important;
+  color: inherit;
+}
+
+#flag {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+
+#game-rank {
+  display: block;
+  justify-content: right;
+}
+
+#game-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,69 @@
+.side-bot {
+    margin-top: 25%;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.side-bot15 {
+    margin-top: 15%;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#teams-list{
+    margin-top: 25%;
+}
+
+#tg-img {
+    width: 30px;
+    height: 30px;
+}
+
+.team-name {
+    text-decoration: none !important;
+    color: inherit !important;
+    font-weight: bold;
+}
+
+.flag-size{
+    border-radius: 5px;
+    width: 90px;
+    height: 67.5px;
+}
+
+  
+.user-dname {
+    font-size: 230%;
+}
+
+.players {
+    margin-top: 2%;
+}
+
+.rlp {
+    justify-content:right;
+    align-items:right;
+    text-align: right;
+}
+
+.clp {
+    justify-content:center;
+    align-items:center;
+    text-align: center;
+}
+
+.muted-link {
+    text-decoration: none !important;
+    color: inherit !important;
+    font-weight: bold;
+}
+
+#left-button {
+    margin-top: 5%;
+}
